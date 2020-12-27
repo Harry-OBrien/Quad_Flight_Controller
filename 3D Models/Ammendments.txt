@@ -1,0 +1,4 @@
+Holes for GPS screws in top plate
+Countersink screws for stereo pi
+move teensy mother board mounts to middle of bottom plate
+Countersink screws at front of quad to mount camera

@@ -1,0 +1,66 @@
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Util/HL_Math/vector.hpp:4: warning: multiple use of section label 'DESCRIPTION' while adding section, (first occurrence: /Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Util/HL_Math/matrix.hpp, line 4)
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Sensors.hpp:29: warning: Compound Dynamics::Sensing::Sensors is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Communication/Radio.hpp:18: warning: Compound Coms::Radio is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Motion/SegmentPlanner.hpp:16: warning: Compound Dynamics::Motion::SegmentPlanner is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Core/Mode/ModeInitialise.hpp:21: warning: Compound Core::Mode::ModeInitialise is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:20: warning: Compound Dynamics::Sensing::Device::Device is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Communication/Radio.hpp:26: warning: Member init() (function) of class Coms::Radio is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Communication/Radio.hpp:27: warning: Member update() (function) of class Coms::Radio is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Communication/Radio.hpp:34: warning: Member printMessage() (function) of class Coms::Radio is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Core/Mode/Mode.hpp:31: warning: Member Mode(SystemController *_sysCtrl) (function) of class Core::Mode::Mode is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Core/Mode/Mode.hpp:28: warning: Member sysCtrl (variable) of class Core::Mode::Mode is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Core/Mode/Mode.hpp:31: warning: Member Mode(SystemController *_sysCtrl) (function) of class Core::Mode::Mode is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Core/Mode/Mode.hpp:28: warning: Member sysCtrl (variable) of class Core::Mode::Mode is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Core/Mode/ModeInitialise.hpp:23: warning: Member ModeInitialise(Core::SystemController *sysCtrl) (function) of class Core::Mode::ModeInitialise is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Core/Mode/Mode.hpp:31: warning: Member Mode(SystemController *_sysCtrl) (function) of class Core::Mode::Mode is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Core/Mode/Mode.hpp:28: warning: Member sysCtrl (variable) of class Core::Mode::Mode is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/DynamicsController.hpp:30: warning: Member init() (function) of class Dynamics::DynamicsController is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/DynamicsController.hpp:31: warning: Member run() (function) of class Dynamics::DynamicsController is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:28: warning: Member sx (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:28: warning: Member sy (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:28: warning: Member sz (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:29: warning: Member distance (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:31: warning: Member vx (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:31: warning: Member vy (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:31: warning: Member vz (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:32: warning: Member speed (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:34: warning: Member ax (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:34: warning: Member ay (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:34: warning: Member az (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:35: warning: Member acceleration (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:37: warning: Member tx (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:37: warning: Member ty (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:37: warning: Member tz (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:38: warning: Member gx (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:38: warning: Member gy (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:38: warning: Member gz (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:40: warning: Member railDistance (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Model.hpp:42: warning: Member stateValid (variable) of class Dynamics::Model is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Accelerometer.hpp:34: warning: Member initialise() (function) of class Dynamics::Sensing::Device::Accelerometer is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Accelerometer.hpp:35: warning: Member getReading() (function) of class Dynamics::Sensing::Device::Accelerometer is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:37: warning: Member isInitialised() (function) of class Device< vec3f > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:38: warning: Member isAlive() (function) of class Device< vec3f > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:22: warning: Member initialised (variable) of class Device< vec3f > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:23: warning: Member alive (variable) of class Device< vec3f > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:24: warning: Member latestReading (variable) of class Device< vec3f > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:34: warning: Member initialise()=0 (function) of class Dynamics::Sensing::Device::Device is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:35: warning: Member getReading()=0 (function) of class Dynamics::Sensing::Device::Device is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:37: warning: Member isInitialised() (function) of class Dynamics::Sensing::Device::Device is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:38: warning: Member isAlive() (function) of class Dynamics::Sensing::Device::Device is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:22: warning: Member initialised (variable) of class Dynamics::Sensing::Device::Device is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:23: warning: Member alive (variable) of class Dynamics::Sensing::Device::Device is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:24: warning: Member latestReading (variable) of class Dynamics::Sensing::Device::Device is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Gyro.hpp:36: warning: Member initialise() (function) of class Dynamics::Sensing::Device::Gyro is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Gyro.hpp:37: warning: Member getReading() (function) of class Dynamics::Sensing::Device::Gyro is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:37: warning: Member isInitialised() (function) of class Device< vec3f > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:38: warning: Member isAlive() (function) of class Device< vec3f > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:22: warning: Member initialised (variable) of class Device< vec3f > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:23: warning: Member alive (variable) of class Device< vec3f > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Dynamics/Sensing/Device/Device.hpp:24: warning: Member latestReading (variable) of class Device< vec3f > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Util/HL_Math/matrix.hpp:571: warning: Member copy(const mat< 2, 2, S > rhs) (function) of class Util::HL_Math::mat< 2, 2, T > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Util/HL_Math/matrix.hpp:372: warning: argument 'col2' of command @param is not found in the argument list of Util::HL_Math::mat< 2, 2, T >::mat(vec< 2, T > col0, vec< 2, T > col1)
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Util/HL_Math/matrix.hpp:372: warning: argument 'col3' of command @param is not found in the argument list of Util::HL_Math::mat< 2, 2, T >::mat(vec< 2, T > col0, vec< 2, T > col1)
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Util/HL_Math/matrix.hpp:943: warning: Member dimCols() const (function) of class Util::HL_Math::mat< 3, 3, T > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Util/HL_Math/matrix.hpp:946: warning: Member copy(const mat< 3, 3, S > &rhs) (function) of class Util::HL_Math::mat< 3, 3, T > is not documented.
+/Users/HarryOB/GitRepos/DroneDefence/FlightController/include/Util/HL_Math/matrix.hpp:1349: warning: Member copy(const mat< 4, 4, S > &rhs) (function) of class Util::HL_Math::mat< 4, 4, T > is not documented.
+error: Project logo './hyperloop_logo.png' specified by PROJECT_LOGO does not exist!
